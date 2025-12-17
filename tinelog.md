@@ -1,0 +1,6 @@
+## Ant farm Website time spent log
+
+yyyy-mm-dd
+2025-12-17
+
+- 1 pomodoro timer

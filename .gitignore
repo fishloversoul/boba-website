@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Compiled frontend assets
+frontend/**/*.js
+frontend/**/*.js.map
+frontend/**/*.d.ts
+
+# Keep source files under frontend/typescript
+!frontend/typescript/**
