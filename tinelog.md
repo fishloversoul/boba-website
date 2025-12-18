@@ -3,4 +3,4 @@
 yyyy-mm-dd
 2025-12-17
 
-- 1 pomodoro timer
+- adding tsc and improving dark and light mode toggle 3 pomodoro timer plus 6 minutes

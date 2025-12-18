@@ -1,24 +1,17 @@
 {
   "compilerOptions": {
     "rootDir": "frontend/typescript",
-    "outDir": "frontend",
+    "outDir": "frontend/js",
     "module": "esnext",
     "target": "es2021",
-    "types": [],
     "lib": ["dom", "dom.iterable", "es2021"],
-    "sourceMap": true,
-    "declaration": true,
-    "declarationMap": true,
     "noUncheckedIndexedAccess": true,
     "exactOptionalPropertyTypes": true,
     "strict": true,
-    "jsx": "react-jsx",
     "verbatimModuleSyntax": true,
-    "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
-    "moduleDetection": "force",
     "skipLibCheck": true,
-    "moduleResolution": "bundler",
+    "moduleResolution": "node",
     "esModuleInterop": true
   },
   "include": ["frontend/typescript/**/*"]
